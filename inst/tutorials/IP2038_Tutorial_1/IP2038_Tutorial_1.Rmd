@@ -467,15 +467,15 @@ For instance,  in the code below we would like to calculate the total population
 
 Objects can also be ***logical (booleans)*** statements that take either a `true` or `false` value.
 
-For instance we can check whether an object has a certain value or wether two objects have the same value by using the equality operator (`==`). The result will be a logical value (true/false) that can also be stored in a object.
+For instance we can check whether an object has a certain value or wether two objects have the same value by using the equality operator (`==`). The result will be a logical value (true/false) that can also be stored in a object. 
 
 ```{r ismynameMark, exercise=TRUE}
 
   # Store my name into object called "my_name"
   my_name <- "Stefano"
 
-  # check if my_name is equal to "Mark"
-  am_I_Mark <- (my_name == "Mark") and store it in an object called "am_I_Mark"
+  # check if my_name is equal to "Mark" and store it in an object called "am_I_Mark"
+  am_I_Mark <- (my_name == "Mark") 
 
   # print the results of am_I_Mark
   am_I_Mark
