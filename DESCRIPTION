@@ -3,8 +3,8 @@ Title: IP2038 Interactive Tutorials
 Version: 0.1
 Authors@R: 
     person("Stefano", "Pagliari", , "stefano.pagliari@city.ac.uk", role = c("aut", "cre"))
-Description: Interactive Tutorials for the module "IP2038 Analysing Political and Economic Data in the Real World", City, Univeristy of London
-License: 
+Description: Interactive Tutorials for the module "IP2038 Analysing Political and Economic Data in the Real World", City, Univeristy of London.
+License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
